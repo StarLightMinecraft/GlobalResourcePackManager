@@ -1,0 +1,12 @@
+[
+  {
+    "type": "GLOBAL",
+    "detail": {
+      "url": "https://your-url-here",
+      "hash": "your-hash-here",
+      "required": false,
+      "resourcePackPrompt": "<red>MiniMessage allowed"
+    },
+    "isShowPromptInChatScreen": false
+  }
+]

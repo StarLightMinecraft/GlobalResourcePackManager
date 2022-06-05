@@ -1,0 +1,7 @@
+name: GlobalResourcePackManager
+version: '${version}'
+main: io.hikarilan.globalresourcepackmanager.GlobalResourcePackManager
+api-version: 1.18
+authors: [ HikariLan ]
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:${kotlin_version}
