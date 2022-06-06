@@ -2,8 +2,8 @@
 
 A StarLight Minecraft Server project by HikariLan
 
-GlobalResourcePackManager allow you to control where to load what resource pack, full detail please see regions.json in
-the resources folder.
+GlobalResourcePackManager allow you to control where to load some resource pack,for the full detail please see regions.json in
+the `resources` folder.
 
 ## Environment
 
